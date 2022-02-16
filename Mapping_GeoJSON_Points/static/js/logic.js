@@ -13,6 +13,9 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
     accessToken: API_KEY,
     
 });
+
+
+
 streets.addTo(map);
 // Accessing the airport GeoJSON URL
 let airportData = "https://raw.githubusercontent.com/SnehaJoshi11/Mapping_Earthquakes/main/majorAirports.json";
