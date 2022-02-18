@@ -137,7 +137,7 @@ streets.addTo(map);
 // mapbox/satellite-streets-v11
 
 
-// KILL DRILL
+// SKILL DRILL
 //Edit your logic.js to create an airline route from SFO to John F. Kennedy International Airport (JFK) with two stops,
 //Austin-Bergstrom International Airport (AUS) and Toronto Pearson International Airport (YYZ).
 //Make the route a blue dashed line, with a weight of 4 and opacity of 0.5 on the light map.
