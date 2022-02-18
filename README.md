@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For this project we are creating an interactive map that shows the latest earthquake activity around the world. Maps allow us to explore, understand and make decisions about the world.
+For this project we are creating an interactive map that shows the latest earthquake activity around the world. 
 
 ## Purpose
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
@@ -18,8 +18,6 @@ Approach will be to use the JavaScript and the D3.js library to retrieve the coo
 </p>
 
 ## Requirements
-
-**The map of earthquakes around the world contains:**
 
 -	Overlay object for **Tectonic plates**.
 -	Overlay object for **Earthquakes of the past 7 days**.
